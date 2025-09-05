@@ -42,14 +42,12 @@ Through this project, I aimed to answer key questions such as:
     <img width="380" height="93" alt="image" src="https://github.com/user-attachments/assets/f6b1775e-bf3b-4831-ad09-0773647c5810" />
     
 3. Introspection
-  - Top Gainers & Losers → which stock indices moved the most.
+  - Top Gainers  → which stock indices moved the most.
     
   <img width="401" height="205" alt="image" src="https://github.com/user-attachments/assets/0327b7de-e9b4-45fa-9f92-94f8cd777f4d" />
 
-  
+  - Top Losers → which stock indices moved the most.
 
-  
-  
   <img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/6a4c7f3b-31d1-4883-94e2-1a3dfe434d59" />
 
 
