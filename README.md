@@ -54,6 +54,11 @@ Through this project, I aimed to answer key questions such as:
  
 <img width="561" height="257" alt="image" src="https://github.com/user-attachments/assets/3b24266a-e551-43d3-8cfa-7b3df5b0ec09" />
 
+  - Inflation vs Interest Rate.
+  <img width="578" height="254" alt="image" src="https://github.com/user-attachments/assets/71237c0c-3bb7-4823-a133-84127e1a0c4e" />
+  
+
+
 
     
 
