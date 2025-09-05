@@ -50,6 +50,13 @@ Through this project, I aimed to answer key questions such as:
 
   <img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/6a4c7f3b-31d1-4883-94e2-1a3dfe434d59" />
 
+  - Volatility → measured by absolute daily change % or standard deviation (Top 10)
+ 
+<img width="561" height="257" alt="image" src="https://github.com/user-attachments/assets/3b24266a-e551-43d3-8cfa-7b3df5b0ec09" />
+
+
+    
+
 
 
     
