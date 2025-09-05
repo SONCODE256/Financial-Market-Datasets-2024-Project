@@ -71,6 +71,9 @@ The FTSE_100 (UK –0.15%) was the only index showing a notable decline, signali
   - Volatility → measured by absolute daily change % or standard deviation (Top 10)
     
     Volatility shows which markets are the most unstable and therefore the riskiest. Investors often track this to balance risk vs. return.
+
+    📊 Observation (Volatility – Top 10)
+Argentina (Merval 3.45%) and Turkey (BIST_100 2.34%) show the highest daily swings, meaning their markets are highly volatile and riskier for short-term investors.Nigeria (NSE 2.10%) and Brazil (Bovespa 1.67%) also appear in the high-volatility group, reinforcing the pattern that emerging markets tend to face stronger fluctuations.Japan’s Nikkei_225 (1.24%) and Vietnam’s VN_Index (1.23%) show notable volatility among Asian markets, suggesting sensitivity to global macroeconomic news.Even Hong Kong (Hang_Seng –1.23%) appears here, which reflects recent instability in a typically developed market.
  
 <img width="561" height="257" alt="image" src="https://github.com/user-attachments/assets/3b24266a-e551-43d3-8cfa-7b3df5b0ec09" />
 
