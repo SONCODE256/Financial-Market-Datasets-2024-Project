@@ -44,7 +44,9 @@ Through this project, I aimed to answer key questions such as:
 3. Introspection
 
   Provides a quick snapshot of market sentiment: whether investors are optimistic (gainers) or cautious (losers).
+  
   Identifies which regions or sectors are driving market moves, showing where capital is flowing in or out.
+  
   Serves as a starting point before deeper macroeconomic analysis (inflation, interest rates, currency, etc.).
 
   - Top Gainers  → which stock indices moved the most.
