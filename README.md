@@ -80,6 +80,13 @@ Through this project, I aimed to answer key questions such as:
   
   <img width="584" height="256" alt="image" src="https://github.com/user-attachments/assets/b718a413-df88-4f83-867d-98d078f1af47" />
 
+  - Currency Weakness vs Inflation
+
+    When inflation is high, the purchasing power of the local currency declines → the currency often depreciates against stronger ones (like USD).
+    Conversely, stable currencies are usually associated with low inflation.
+    
+  <img width="635" height="306" alt="image" src="https://github.com/user-attachments/assets/fa50d98e-f316-4445-a703-ba294128bca7" />
+
   
 
 
