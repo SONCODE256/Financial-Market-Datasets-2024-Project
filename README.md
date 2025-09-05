@@ -21,4 +21,18 @@ Through this project, I aimed to answer key questions such as:
 - Practical SQL approaches — how to use queries to clean, analyze, and uncover insights from complex financial datasets.
 
 
+# Dataset Details 
+- Source: Kaggle — Financial Market Datasets 2024 (Global Economic Indicators of Financial Market).
+- Size: Covers 39 countries, with thousands of financial and economic records.
+- Time Period: Data snapshot from 2024 (with market, economic, and risk indicators).
+
+# Analysis Process
+1. Data Preparation
+- Imported the Kaggle dataset (Financial Market Datasets 2024) into SQL Server.
+- Cleaned the data: removed duplicates, standardized text fields (e.g., country codes, currency codes), handled missing values, and checked for outliers.
+<img width="547" height="214" alt="image" src="https://github.com/user-attachments/assets/74e5166c-4419-4d46-a658-fb57bda36c01" />
+
+
+
+
 
