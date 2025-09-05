@@ -117,6 +117,8 @@ These emerging markets show moderate bond yields, roughly aligned with inflation
 
 
 📊 Observation
+
+
 Argentina (ARS –89.7%, Inflation 211.4%) Severe currency collapse driven by hyperinflation, making the peso nearly worthless. Classic case of inflation eroding currency value. Nigeria (NGN –68.9%, Inflation 21.8%) and Egypt (EGP –49.7%, Inflation 33.1%)
 Both show sharp depreciation alongside double-digit inflation, reflecting economic stress, FX shortages, and reliance on imports. Turkey (TRY –35.6%, Inflation 64.8%) Another example of currency-inflation spiral, where lira depreciation fuels inflation, forcing high interest rates.Chile, Brazil, Japan (≈ –8.9%) Mild depreciation despite moderate inflation (~3–4.5%), suggesting global FX pressure (possibly stronger USD in 2024) rather than domestic crisis.
     
