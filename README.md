@@ -68,6 +68,16 @@ Through this project, I aimed to answer key questions such as:
     Inflation and interest rates are closely linked. Normally, higher inflation leads to higher policy rates, as central banks try to control rising prices.
     
   <img width="578" height="254" alt="image" src="https://github.com/user-attachments/assets/71237c0c-3bb7-4823-a133-84127e1a0c4e" />
+
+  - Bond Yield vs Inflation & Rate.
+    
+  Government bond yields (10Y) reflect investor confidence, inflation expectations, and risk premium.
+  Typically:
+  Higher inflation → higher bond yields (to compensate investors).
+  Higher interest rates → higher bond yields (central bank tightening pushes up yields).
+  
+  <img width="584" height="256" alt="image" src="https://github.com/user-attachments/assets/b718a413-df88-4f83-867d-98d078f1af47" />
+
   
 
 
