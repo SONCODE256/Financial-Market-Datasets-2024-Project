@@ -43,13 +43,10 @@ Through this project, I aimed to answer key questions such as:
     
 3. Introspection
 
-  Provides a quick snapshot of market sentiment: whether investors are optimistic (gainers) or cautious (losers).
-  
-  Identifies which regions or sectors are driving market moves, showing where capital is flowing in or out.
-  
-  Serves as a starting point before deeper macroeconomic analysis (inflation, interest rates, currency, etc.).
-
   - Top Gainers  → which stock indices moved the most.
+  (Provides a quick snapshot of market sentiment: whether investors are optimistic (gainers) or cautious (losers).
+  Identifies which regions or sectors are driving market moves, showing where capital is flowing in or out.
+  Serves as a starting point before deeper macroeconomic analysis (inflation, interest rates, currency, etc.).)
 
     
   📊 Observation 
@@ -105,6 +102,10 @@ These emerging markets show moderate bond yields, roughly aligned with inflation
 
     When inflation is high, the purchasing power of the local currency declines → the currency often depreciates against stronger ones (like USD).
     Conversely, stable currencies are usually associated with low inflation.
+
+    📊 Observation (Currency Depreciation & Inflation)
+Argentina (ARS –89.7%, Inflation 211.4%) Severe currency collapse driven by hyperinflation, making the peso nearly worthless. Classic case of inflation eroding currency value. Nigeria (NGN –68.9%, Inflation 21.8%) and Egypt (EGP –49.7%, Inflation 33.1%)
+Both show sharp depreciation alongside double-digit inflation, reflecting economic stress, FX shortages, and reliance on imports. Turkey (TRY –35.6%, Inflation 64.8%) Another example of currency-inflation spiral, where lira depreciation fuels inflation, forcing high interest rates.Chile, Brazil, Japan (≈ –8.9%) Mild depreciation despite moderate inflation (~3–4.5%), suggesting global FX pressure (possibly stronger USD in 2024) rather than domestic crisis.
     
   <img width="635" height="306" alt="image" src="https://github.com/user-attachments/assets/fa50d98e-f316-4445-a703-ba294128bca7" />
 
