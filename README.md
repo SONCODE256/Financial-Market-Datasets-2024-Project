@@ -50,6 +50,10 @@ Through this project, I aimed to answer key questions such as:
   Serves as a starting point before deeper macroeconomic analysis (inflation, interest rates, currency, etc.).
 
   - Top Gainers  → which stock indices moved the most.
+  📊 Observation (Top Gainers)
+    Argentina (Merval +3.45%) and Turkey (BIST_100 +2.34%) lead the gains, showing strong upward momentum in emerging markets.
+    Nigeria (NSE +2.10%) and Brazil (Bovespa +1.67%) also posted significant daily increases, reflecting.
+
     
  <img width="496" height="252" alt="image" src="https://github.com/user-attachments/assets/50ad7c6f-770b-47d5-b6bd-3e21acfa8675" />
 
