@@ -11,3 +11,14 @@ Through this project, I aimed to answer key questions such as:
 - How does inflation influence policy rates, bond yields, and currency performance?
 - Do emerging markets behave differently from developed markets during global uncertainty?
 - What can outliers like Japan (high debt, low yields) and Argentina (hyperinflation) teach us about market resilience and risk?
+
+
+# What Readers Will Gain 
+- A clear view of global market dynamics in 2024 — how emerging and developed economies behaved differently under inflation, policy changes, and capital flows.
+- Understanding of key financial relationships — such as how inflation links to interest rates, bond yields, and currency performance.
+- Insights into market volatility — which indices moved the most and why, and what that says about risk and opportunity.
+- Lessons from outliers — what Japan’s unique case (high debt, low yields) and Argentina’s extreme volatility reveal about resilience and instability in financial systems.
+- Practical SQL approaches — how to use queries to clean, analyze, and uncover insights from complex financial datasets.
+
+
+
