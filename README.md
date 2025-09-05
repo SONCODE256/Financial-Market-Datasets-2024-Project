@@ -58,10 +58,15 @@ Through this project, I aimed to answer key questions such as:
   <img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/6a4c7f3b-31d1-4883-94e2-1a3dfe434d59" />
 
   - Volatility → measured by absolute daily change % or standard deviation (Top 10)
+    
+    Volatility shows which markets are the most unstable and therefore the riskiest. Investors often track this to balance risk vs. return.
  
 <img width="561" height="257" alt="image" src="https://github.com/user-attachments/assets/3b24266a-e551-43d3-8cfa-7b3df5b0ec09" />
 
   - Inflation vs Interest Rate.
+
+    Inflation and interest rates are closely linked. Normally, higher inflation leads to higher policy rates, as central banks try to control rising prices.
+    
   <img width="578" height="254" alt="image" src="https://github.com/user-attachments/assets/71237c0c-3bb7-4823-a133-84127e1a0c4e" />
   
 
