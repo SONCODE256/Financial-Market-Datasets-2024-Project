@@ -80,6 +80,10 @@ Argentina (Merval 3.45%) and Turkey (BIST_100 2.34%) show the highest daily swin
   - Inflation vs Interest Rate.
 
     Inflation and interest rates are closely linked. Normally, higher inflation leads to higher policy rates, as central banks try to control rising prices.
+
+
+    📊 Observation (Inflation vs Interest Rate)
+Turkey (Inflation 64.8%, Interest 50%) and Egypt (Inflation 33.1%, Interest 27.25%) stand out with extremely high inflation, forcing central banks to keep policy rates at very elevated levels. Russia (Inflation 7.4%, Interest 16%) shows a relatively high interest rate compared to inflation, suggesting monetary tightening to stabilize the ruble. Colombia (7.2% vs 10.75%), Brazil (4.5% vs 10.75%), and Mexico (4.7% vs 11%) highlight a Latin American trend of maintaining higher interest rates than inflation to maintain currency stability and attract investment.
     
   <img width="578" height="254" alt="image" src="https://github.com/user-attachments/assets/71237c0c-3bb7-4823-a133-84127e1a0c4e" />
 
