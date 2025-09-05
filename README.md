@@ -50,7 +50,9 @@ Through this project, I aimed to answer key questions such as:
   Serves as a starting point before deeper macroeconomic analysis (inflation, interest rates, currency, etc.).
 
   - Top Gainers  → which stock indices moved the most.
-  📊 Observation (Top Gainers)
+
+    
+  📊 Observation 
     Argentina (Merval +3.45%) and Turkey (BIST_100 +2.34%) lead the gains, showing strong upward momentum in emerging markets.
     Nigeria (NSE +2.10%) and Brazil (Bovespa +1.67%) also posted significant daily increases, reflecting.
 
@@ -59,6 +61,9 @@ Through this project, I aimed to answer key questions such as:
 
 
   - Top Losers → which stock indices moved the most.
+
+📊 Observation 
+The FTSE_100 (UK –0.15%) was the only index showing a notable decline, signaling mild weakness in the British market. Other indices, such as AEX (Netherlands +0.12%), ASX_200 (Australia +0.22%), and CAC_40 (France +0.28%), posted only very small changes. Major developed markets like the United States (S&P_500 +0.34%), Switzerland (SMI +0.28%), and Italy (FTSE_MIB +0.34%) appear in this list, but their movements are still positive — just at the lower end of the daily performance spectrum.
 
  <img width="501" height="245" alt="image" src="https://github.com/user-attachments/assets/6f15d0bf-b6a2-4b4a-b807-9aa78f315c84" />
 
