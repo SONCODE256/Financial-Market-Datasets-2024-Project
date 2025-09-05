@@ -66,6 +66,7 @@ The FTSE_100 (UK –0.15%) was the only index showing a notable decline, signali
 
 
   - Volatility → measured by absolute daily change % or standard deviation (Top 10)
+
     ( Volatility shows which markets are the most unstable and therefore the riskiest. Investors often track this to balance risk vs. return.)
 
     📊 Observation (Volatility – Top 10)
@@ -75,7 +76,7 @@ Argentina (Merval 3.45%) and Turkey (BIST_100 2.34%) show the highest daily swin
 
   - Inflation vs Interest Rate.
 
-    Inflation and interest rates are closely linked. Normally, higher inflation leads to higher policy rates, as central banks try to control rising prices.
+    (Inflation and interest rates are closely linked. Normally, higher inflation leads to higher policy rates, as central banks try to control rising prices.)
 
 
     📊 Observation (Inflation vs Interest Rate)
@@ -85,10 +86,10 @@ Turkey (Inflation 64.8%, Interest 50%) and Egypt (Inflation 33.1%, Interest 27.2
 
   - Bond Yield vs Inflation & Rate.
     
-  Government bond yields (10Y) reflect investor confidence, inflation expectations, and risk premium.
+ ( Government bond yields (10Y) reflect investor confidence, inflation expectations, and risk premium.
   Typically:
   Higher inflation → higher bond yields (to compensate investors).
-  Higher interest rates → higher bond yields (central bank tightening pushes up yields).
+  Higher interest rates → higher bond yields central bank tightening pushes up yields).
 
   📊 Observation (Bond Yields – Top 10)
 Argentina (Bond Yield 89.45%, Inflation 211.4%, Interest 133%) Extremely high bond yields reflect hyperinflationary pressures and credit risk, as investors demand very high returns to lend money.
@@ -99,8 +100,7 @@ These emerging markets show moderate bond yields, roughly aligned with inflation
 
   - Currency Weakness vs Inflation
 
-    When inflation is high, the purchasing power of the local currency declines → the currency often depreciates against stronger ones (like USD).
-    Conversely, stable currencies are usually associated with low inflation.
+   ( When inflation is high, the purchasing power of the local currency declines → the currency often depreciates against stronger ones like USD. Conversely, stable currencies are usually associated with low inflation.)
 
     📊 Observation (Currency Depreciation & Inflation)
 Argentina (ARS –89.7%, Inflation 211.4%) Severe currency collapse driven by hyperinflation, making the peso nearly worthless. Classic case of inflation eroding currency value. Nigeria (NGN –68.9%, Inflation 21.8%) and Egypt (EGP –49.7%, Inflation 33.1%)
