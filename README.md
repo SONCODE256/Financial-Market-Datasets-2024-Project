@@ -27,12 +27,12 @@ Through this project, I aimed to answer key questions such as:
 - Time Period: Data snapshot from 2024 (with market, economic, and risk indicators).
 
 # Analysis Process
-1. Data Preparation
+# 1. Data Preparation
 - Imported the Kaggle dataset (Financial Market Datasets 2024) into SQL Server.
 - Cleaned the data: removed duplicates, standardized text fields (e.g., country codes, currency codes), handled missing values, and checked for outliers.
 <img width="547" height="214" alt="image" src="https://github.com/user-attachments/assets/74e5166c-4419-4d46-a658-fb57bda36c01" />
 
-2. Description
+# 2. Description
   - Summarized dataset structure: 39 countries, 26 columns, one snapshot of 2024.
     
     <img width="399" height="94" alt="image" src="https://github.com/user-attachments/assets/128a5008-336b-4b09-a80a-439dc3f365a8" />
@@ -43,7 +43,7 @@ Through this project, I aimed to answer key questions such as:
 
     
     
-3. Introspection
+# 3. Introspection
 
   - Top Gainers  → which stock indices moved the most.
   (Provides a quick snapshot of market sentiment: whether investors are optimistic (gainers) or cautious (losers).
