@@ -40,6 +40,8 @@ Through this project, I aimed to answer key questions such as:
   - List column names + data types
     
     <img width="380" height="93" alt="image" src="https://github.com/user-attachments/assets/f6b1775e-bf3b-4831-ad09-0773647c5810" />
+
+    
     
 3. Introspection
 
@@ -56,6 +58,8 @@ Through this project, I aimed to answer key questions such as:
     
  <img width="496" height="252" alt="image" src="https://github.com/user-attachments/assets/50ad7c6f-770b-47d5-b6bd-3e21acfa8675" />
 
+ 
+
 
   - Top Losers → which stock indices moved the most.
 
@@ -63,6 +67,8 @@ Through this project, I aimed to answer key questions such as:
 The FTSE_100 (UK –0.15%) was the only index showing a notable decline, signaling mild weakness in the British market. Other indices, such as AEX (Netherlands +0.12%), ASX_200 (Australia +0.22%), and CAC_40 (France +0.28%), posted only very small changes. Major developed markets like the United States (S&P_500 +0.34%), Switzerland (SMI +0.28%), and Italy (FTSE_MIB +0.34%) appear in this list, but their movements are still positive — just at the lower end of the daily performance spectrum.
 
  <img width="501" height="245" alt="image" src="https://github.com/user-attachments/assets/6f15d0bf-b6a2-4b4a-b807-9aa78f315c84" />
+
+ 
 
 
   - Volatility → measured by absolute daily change % or standard deviation (Top 10)
@@ -74,6 +80,9 @@ Argentina (Merval 3.45%) and Turkey (BIST_100 2.34%) show the highest daily swin
  
 <img width="561" height="257" alt="image" src="https://github.com/user-attachments/assets/3b24266a-e551-43d3-8cfa-7b3df5b0ec09" />
 
+
+
+
   - Inflation vs Interest Rate.
 
     (Inflation and interest rates are closely linked. Normally, higher inflation leads to higher policy rates, as central banks try to control rising prices.)
@@ -83,6 +92,8 @@ Argentina (Merval 3.45%) and Turkey (BIST_100 2.34%) show the highest daily swin
 Turkey (Inflation 64.8%, Interest 50%) and Egypt (Inflation 33.1%, Interest 27.25%) stand out with extremely high inflation, forcing central banks to keep policy rates at very elevated levels. Russia (Inflation 7.4%, Interest 16%) shows a relatively high interest rate compared to inflation, suggesting monetary tightening to stabilize the ruble. Colombia (7.2% vs 10.75%), Brazil (4.5% vs 10.75%), and Mexico (4.7% vs 11%) highlight a Latin American trend of maintaining higher interest rates than inflation to maintain currency stability and attract investment.
     
   <img width="578" height="254" alt="image" src="https://github.com/user-attachments/assets/71237c0c-3bb7-4823-a133-84127e1a0c4e" />
+
+  
 
   - Bond Yield vs Inflation & Rate.
     
@@ -98,11 +109,13 @@ These emerging markets show moderate bond yields, roughly aligned with inflation
   
   <img width="584" height="256" alt="image" src="https://github.com/user-attachments/assets/b718a413-df88-4f83-867d-98d078f1af47" />
 
+
+
   - Currency Weakness vs Inflation
 
    ( When inflation is high, the purchasing power of the local currency declines → the currency often depreciates against stronger ones like USD. Conversely, stable currencies are usually associated with low inflation.)
 
-    📊 Observation (Currency Depreciation & Inflation)
+    📊 Observation
 Argentina (ARS –89.7%, Inflation 211.4%) Severe currency collapse driven by hyperinflation, making the peso nearly worthless. Classic case of inflation eroding currency value. Nigeria (NGN –68.9%, Inflation 21.8%) and Egypt (EGP –49.7%, Inflation 33.1%)
 Both show sharp depreciation alongside double-digit inflation, reflecting economic stress, FX shortages, and reliance on imports. Turkey (TRY –35.6%, Inflation 64.8%) Another example of currency-inflation spiral, where lira depreciation fuels inflation, forcing high interest rates.Chile, Brazil, Japan (≈ –8.9%) Mild depreciation despite moderate inflation (~3–4.5%), suggesting global FX pressure (possibly stronger USD in 2024) rather than domestic crisis.
     
