@@ -1,3 +1,6 @@
+<img width="1500" height="893" alt="image" src="https://github.com/user-attachments/assets/57a7859b-d946-4a0c-b1c5-cd999248906d" />
+
+
 # Financial-Market-Datasets-2024-Project
 In this project, I analyzed financial and economic data across 39 countries to understand how stock indices, macroeconomic indicators, and risk factors interact in shaping global markets. Using SQL as my primary tool, I investigated over thousands of cross-country records, uncovering relationships between inflation, policy interest rates, bond yields, and equity market performance.
 
@@ -58,7 +61,7 @@ Through this project, I aimed to answer key questions such as:
     
  <img width="496" height="252" alt="image" src="https://github.com/user-attachments/assets/50ad7c6f-770b-47d5-b6bd-3e21acfa8675" />
 
- 
+ ---
 
 
   - Top Losers → which stock indices moved the most.
@@ -68,7 +71,7 @@ The FTSE_100 (UK –0.15%) was the only index showing a notable decline, signali
 
  <img width="501" height="245" alt="image" src="https://github.com/user-attachments/assets/6f15d0bf-b6a2-4b4a-b807-9aa78f315c84" />
 
- 
+ ---
 
 
   - Volatility → measured by absolute daily change % or standard deviation (Top 10)
@@ -81,7 +84,7 @@ Argentina (Merval 3.45%) and Turkey (BIST_100 2.34%) show the highest daily swin
 <img width="561" height="257" alt="image" src="https://github.com/user-attachments/assets/3b24266a-e551-43d3-8cfa-7b3df5b0ec09" />
 
 
-
+---
 
   - Inflation vs Interest Rate.
 
@@ -93,6 +96,7 @@ Turkey (Inflation 64.8%, Interest 50%) and Egypt (Inflation 33.1%, Interest 27.2
     
   <img width="578" height="254" alt="image" src="https://github.com/user-attachments/assets/71237c0c-3bb7-4823-a133-84127e1a0c4e" />
 
+  ---
   
 
   - Bond Yield vs Inflation & Rate.
@@ -110,6 +114,7 @@ These emerging markets show moderate bond yields, roughly aligned with inflation
   <img width="584" height="256" alt="image" src="https://github.com/user-attachments/assets/b718a413-df88-4f83-867d-98d078f1af47" />
 
 
+---
 
   - Currency Weakness vs Inflation
 
@@ -123,6 +128,7 @@ Argentina (ARS –89.7%, Inflation 211.4%) Severe currency collapse driven by hy
 Both show sharp depreciation alongside double-digit inflation, reflecting economic stress, FX shortages, and reliance on imports. Turkey (TRY –35.6%, Inflation 64.8%) Another example of currency-inflation spiral, where lira depreciation fuels inflation, forcing high interest rates.Chile, Brazil, Japan (≈ –8.9%) Mild depreciation despite moderate inflation (~3–4.5%), suggesting global FX pressure (possibly stronger USD in 2024) rather than domestic crisis.
     
   <img width="635" height="306" alt="image" src="https://github.com/user-attachments/assets/fa50d98e-f316-4445-a703-ba294128bca7" />
+
 
 
 
@@ -182,6 +188,9 @@ Conclusion:
 - Emerging markets = high risk, high volatility.
 - Developed markets = stability, investor trust.
 - Inflation is the key driver linking interest rates, bond yields, and currency value.
+
+
+----
 
 
 
