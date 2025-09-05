@@ -42,6 +42,7 @@ Through this project, I aimed to answer key questions such as:
     <img width="380" height="93" alt="image" src="https://github.com/user-attachments/assets/f6b1775e-bf3b-4831-ad09-0773647c5810" />
     
 3. Introspection
+
   Provides a quick snapshot of market sentiment: whether investors are optimistic (gainers) or cautious (losers).
   Identifies which regions or sectors are driving market moves, showing where capital is flowing in or out.
   Serves as a starting point before deeper macroeconomic analysis (inflation, interest rates, currency, etc.).
