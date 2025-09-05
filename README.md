@@ -93,6 +93,11 @@ Turkey (Inflation 64.8%, Interest 50%) and Egypt (Inflation 33.1%, Interest 27.2
   Typically:
   Higher inflation → higher bond yields (to compensate investors).
   Higher interest rates → higher bond yields (central bank tightening pushes up yields).
+
+  📊 Observation (Bond Yields – Top 10)
+Argentina (Bond Yield 89.45%, Inflation 211.4%, Interest 133%) Extremely high bond yields reflect hyperinflationary pressures and credit risk, as investors demand very high returns to lend money.
+Mexico (Bond Yield 9.12%, Inflation 4.7%, Interest 11%) A more balanced case: bond yields are slightly above inflation, suggesting reasonable investor confidence and consistent monetary policy. Indonesia (7.12%), India (7.04%), Peru (6.78%), Philippines (6.45%)
+These emerging markets show moderate bond yields, roughly aligned with inflation and interest rates. This signals moderate risk and controlled inflation expectations.
   
   <img width="584" height="256" alt="image" src="https://github.com/user-attachments/assets/b718a413-df88-4f83-867d-98d078f1af47" />
 
