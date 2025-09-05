@@ -51,11 +51,13 @@ Through this project, I aimed to answer key questions such as:
 
   - Top Gainers  → which stock indices moved the most.
     
-  <img width="401" height="205" alt="image" src="https://github.com/user-attachments/assets/0327b7de-e9b4-45fa-9f92-94f8cd777f4d" />
+ <img width="496" height="252" alt="image" src="https://github.com/user-attachments/assets/50ad7c6f-770b-47d5-b6bd-3e21acfa8675" />
+
 
   - Top Losers → which stock indices moved the most.
 
-  <img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/6a4c7f3b-31d1-4883-94e2-1a3dfe434d59" />
+ <img width="501" height="245" alt="image" src="https://github.com/user-attachments/assets/6f15d0bf-b6a2-4b4a-b807-9aa78f315c84" />
+
 
   - Volatility → measured by absolute daily change % or standard deviation (Top 10)
     
