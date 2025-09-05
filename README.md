@@ -126,7 +126,7 @@ Both show sharp depreciation alongside double-digit inflation, reflecting econom
 
 
 
-  ### 📝 Conclusions
+  # 📝 Conclusions
 # 1. Which stock indices gained and lost the most?
 Findings:
 - Top Gainers: Argentina’s Merval (+3.45%) and Turkey’s BIST 100 (+2.34%) showed the strongest upward moves.
