@@ -124,6 +124,81 @@ Both show sharp depreciation alongside double-digit inflation, reflecting econom
     
   <img width="635" height="306" alt="image" src="https://github.com/user-attachments/assets/fa50d98e-f316-4445-a703-ba294128bca7" />
 
+
+
+  📝 Conclusions
+1. Which stock indices gained and lost the most?
+
+Findings:
+
+Top Gainers: Argentina’s Merval (+3.45%) and Turkey’s BIST 100 (+2.34%) showed the strongest upward moves.
+
+Top Losers: UK’s FTSE 100 (–0.15%) and other developed markets like Switzerland (–0.28%) had the weakest or negative returns.
+
+Conclusion:
+
+Emerging markets are more volatile, showing sharp gains, while developed markets remain stable but less dynamic.
+
+2. Which markets are the most volatile (risky)?
+
+Findings:
+
+Argentina (3.45% average daily move) and Turkey (2.34%) lead in volatility.
+
+Stable markets like Mexico (0.91%) and Switzerland (0.28%) show much lower daily swings.
+
+Conclusion:
+
+Volatility highlights investment risk. Higher-risk markets (Argentina, Turkey, Nigeria) may offer high returns but carry instability.
+
+3. How do inflation and interest rates interact?
+
+Findings:
+
+Argentina (Inflation 211%, Interest 133%) and Turkey (Inflation 64.8%, Interest 50%) show extreme monetary tightening.
+
+In contrast, stable economies (US, Switzerland) show low inflation (~2–3%) and low interest (~5%).
+
+Conclusion:
+
+Inflation and interest rates are positively correlated — central banks raise rates to fight inflation, but extreme inflation still overwhelms monetary policy.
+
+4. How do bond yields reflect risk and inflation?
+
+Findings:
+
+Argentina’s bond yield (89.45%) mirrors its hyperinflation and credit risk.
+
+Mexico (9.12%) and Indonesia (7.12%) show moderate yields aligned with inflation expectations.
+
+US (4.25%) and Switzerland (6.2%) remain low and stable, reflecting investor confidence.
+
+Conclusion:
+
+Bond yields capture market trust. Higher yields = higher risk premium demanded by investors.
+
+5. How does currency depreciation relate to inflation?
+
+Findings:
+
+Argentina (–89.7% ARS, 211% inflation) and Turkey (–35.6% TRY, 64.8% inflation) confirm that high inflation drives sharp currency depreciation.
+
+Nigeria (–68.9%) and Egypt (–49.7%) follow similar patterns.
+
+In contrast, Switzerland (CHF +6.2%) and Canada (CAD +4.2%) appreciate due to investor trust and stable inflation.
+
+Conclusion:
+
+Inflation erodes currency value — unless a country has strong fundamentals (safe-haven status or strong exports).
+
+✅ Overall:
+
+Emerging markets = high risk, high volatility.
+
+Developed markets = stability, investor trust.
+
+Inflation is the key driver linking interest rates, bond yields, and currency value.
+
   
 
 
